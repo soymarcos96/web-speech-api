@@ -1,15 +1,13 @@
----
-
 ## 🎙️ Voice Translator
 
 Real-time voice translation app built with React, TypeScript, and Google Gemini.
 
 ### ✨ Features
 
-* Speech recognition via Web Speech API  
-* Automatic translation using Google Gemini  
-* Translated text playback with synthesized voice  
-* Modern interface styled with Tailwind CSS  
+- Speech recognition via Web Speech API
+- Automatic translation using Google Gemini
+- Translated text playback with synthesized voice
+- Modern interface styled with Tailwind CSS
 
 ### 🚀 Deployment
 
@@ -21,5 +19,3 @@ Ready to deploy on [Vercel](https://vercel.com), with support for serverless API
 ### 📦 Technologies
 
 React · TypeScript · Tailwind · Google Gemini · Vercel
-
----
