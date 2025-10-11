@@ -6,7 +6,7 @@ interface LanguagesProps {
 export const Languages = ({ value, onChange }: LanguagesProps) => {
   return (
     <div className="mb-4">
-      <label className="mb-2 block text-sm">Translated to:</label>
+      <label className="mb-2 block text-sm">translate to</label>
       <select
         value={value}
         onChange={(event) => onChange(event.target.value)}

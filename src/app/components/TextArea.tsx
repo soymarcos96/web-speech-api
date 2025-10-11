@@ -6,7 +6,7 @@ interface TextAreaProps {
 export const TextArea = ({ value, placeholder }: TextAreaProps) => {
   return (
     <div className="mb-4">
-      <label className="mb-2 block text-sm">What was said:</label>
+      <label className="mb-2 block text-sm">What was said</label>
       <textarea
         disabled
         value={value}
