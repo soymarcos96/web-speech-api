@@ -13,7 +13,7 @@ export const RecordingButton = ({
     <div className="mb-6 flex justify-center">
       <button
         onClick={onClick}
-        className={`pointer rounded-full p-4 text-white transition ${
+        className={`cursor-pointer rounded-full p-4 text-white transition ${
           isRecording ? "bg-red-600" : "bg-purple-700 hover:bg-purple-600"
         }`}
       >
